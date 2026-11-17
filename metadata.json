@@ -1,0 +1,6 @@
+{
+  "name": "Lightmoon",
+  "description": "Non-destructive mobile photo library and RAW development studio with offline editing and cloud preset sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lightmoon</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_undo">Undo</string>
+    <string name="cd_redo">Redo</string>
+    <string name="cd_compare">Before and after compare</string>
+    <string name="cd_export">Export photo</string>
+    <string name="cd_import_photos">Import photos</string>
+    <string name="cd_histogram">Toggle scopes and histogram</string>
+    <string name="cd_auto_tone">Auto tone and white balance</string>
+    <string name="cd_eyedropper">White balance eyedropper</string>
+    <string name="cd_info">Photo EXIF info</string>
+    <string name="cd_backup_sync">Backup and sync presets</string>
+    <string name="cd_more_options">More options</string>
+    <string name="cd_reset">Reset adjustments</string>
+    <string name="cd_history">History and snapshots</string>
+    <string name="cd_star_rating">Star rating</string>
+    <string name="cd_pick_flag">Pick flag</string>
+    <string name="cd_reject_flag">Reject flag</string>
+    <string name="label_library">Library</string>
+    <string name="label_offline_ready">Offline Ready</string>
+    <string name="label_import_picker">Photo Picker</string>
+    <string name="label_import_raw">RAW / DNG File</string>
+    <string name="label_export_title">Export Develop</string>
+    <string name="label_no_photos_title">Your Darkroom is Empty</string>
+    <string name="label_no_photos_subtitle">Import JPEG, PNG, or DNG/RAW photos from your device to begin non-destructive editing.</string>
+</resources>
